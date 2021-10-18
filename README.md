@@ -8,7 +8,8 @@ Project ini dilakukan dengan tujuan memenuhi tugas mata kuliah Kecerdasan Buatan
 Dari label yang kami kumpulkan menghasilkan 100 foto yang ada dalam folder Dataset.zip . Tiap label terdiri atas 50 foto dengan dimensi yang telah ditentukan yaitu 1600 x 1200 pixel. Pengambilan gambar kami lakukan dari berbagai sisi daun yang kami kumpulkan agar menghasilkan gambar yang bervariasi. 
 Proses pengambilan gambar kami lakukan disalah satu kos anggota kelompok.
 
-
+##Overview Dataset
+Overview dataset kami upload dalam bentuk zip yang terdiri atas 25 gambar daun jeruk dan 25 gambar daun kemangi.
 
 ## Authors
 
