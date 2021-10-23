@@ -9,7 +9,7 @@ Dari label yang kami kumpulkan menghasilkan 100 foto yang ada dalam folder Datas
 Proses pengambilan gambar kami lakukan disalah satu kos anggota kelompok.
 
 ## Overview Dataset
-Overview dataset kami upload dalam bentuk zip yang terdiri atas 25 gambar daun jeruk dan 25 gambar daun kemangi.
+Overview dataset kami upload dalam bentuk jpg yang terdiri atas 25 gambar daun jeruk dan 25 gambar daun kemangi.
 
 ## Authors
 
